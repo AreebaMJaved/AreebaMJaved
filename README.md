@@ -21,7 +21,7 @@
 
 ## About
 
-I'm a Software Engineer with a background in full-stack development, working primarily across the MERN stack — React and Next.js on the frontend, Node.js and Express on the backend, with MongoDB and SQL databases depending on the project. My Software Engineering degree shaped how I approach problems: thinking in terms of system design, data structures, and the SDLC rather than just shipping features. Testing and SQA are part of how I build, not an afterthought, and I've been extending that into API testing and automation with Playwright. Beyond the core stack, I work on integrating AI/LLM APIs into web applications and deploying production apps to the cloud.
+I'm a Software Engineer with a background in full-stack development, working primarily across the MERN stack — React and Next.js on the frontend, Node.js and Express on the backend, with MongoDB and SQL databases depending on the project. My Software Engineering degree shaped how I approach problems: thinking in terms of system design, data structures, and the SDLC rather than just shipping features. Testing and SQA are part of how I build, not an afterthought, and I've been extending that into API testing and automation with Playwright and Cypress. Beyond the core stack, I integrate AI/LLM APIs into web applications and have worked with agentic AI — tool-using, multi-step AI workflows — across several projects, alongside deploying production apps to the cloud.
 
 <br/>
 
@@ -32,25 +32,25 @@ I'm a Software Engineer with a background in full-stack development, working pri
 
 **Languages**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" title="SQL"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=437291)
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square)
 
 </td></tr>
 <tr><td width="100%">
 
 **Frontend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" title="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="32" title="Vite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="32" title="Redux Toolkit"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" title="Tailwind CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32" title="Bootstrap"/>
+![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=646CFF)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-161B22?style=flat-square&logo=redux&logoColor=764ABC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=7952B3)
 
 <sub>React Router · Axios · Responsive Design · Component-Based Architecture · State Management · API Integration · Frontend Performance · Accessibility</sub>
 
@@ -59,8 +59,8 @@ I'm a Software Engineer with a background in full-stack development, working pri
 
 **Backend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" title="Express.js"/>
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-161B22?style=flat-square&logo=express&logoColor=white)
 
 <sub>REST APIs · RESTful API Design · Middleware · JWT · OAuth 2.0 · Cookies & Sessions · bcrypt · Error Handling · File Uploads · Backend Architecture Fundamentals</sub>
 
@@ -69,10 +69,10 @@ I'm a Software Engineer with a background in full-stack development, working pri
 
 **Databases**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="32" title="Mongoose"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" title="PostgreSQL"/>
+![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248)
+![Mongoose](https://img.shields.io/badge/Mongoose-161B22?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
 
 <sub>Database Design · Data Modeling · CRUD · Relationships · Indexing Fundamentals · Aggregation · Query Optimization Fundamentals</sub>
 
@@ -81,8 +81,10 @@ I'm a Software Engineer with a background in full-stack development, working pri
 
 **Software Testing & SQA**
 
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="32" title="Postman"/>
-<img src="https://cdn.simpleicons.org/playwright/2EAD33" width="32" title="Playwright"/>
+![Postman](https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=FF6C37)
+![Playwright](https://img.shields.io/badge/Playwright-161B22?style=flat-square&logo=playwright&logoColor=2EAD33)
+![Cypress](https://img.shields.io/badge/Cypress-161B22?style=flat-square&logo=cypress&logoColor=69D3A7)
+![Jest](https://img.shields.io/badge/Jest-161B22?style=flat-square&logo=jest&logoColor=C21325)
 
 <sub>SQA · Manual Testing · Test Cases & Scenarios · Functional Testing · Regression Testing · Unit Testing Fundamentals · Integration Testing · API Testing · End-to-End Testing · Bug Reporting · Defect Life Cycle · Test Automation Fundamentals</sub>
 
@@ -91,21 +93,25 @@ I'm a Software Engineer with a background in full-stack development, working pri
 
 **AI Engineering**
 
-<img src="https://cdn.simpleicons.org/openai/412991" width="32" title="ChatGPT"/>
-<img src="https://cdn.simpleicons.org/claude/D97757" width="32" title="Claude"/>
+![ChatGPT](https://img.shields.io/badge/ChatGPT-161B22?style=flat-square&logo=openai&logoColor=412991)
+![Claude](https://img.shields.io/badge/Claude-161B22?style=flat-square&logo=claude&logoColor=D97757)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-161B22?style=flat-square&logo=cursor&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=EA4B71)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-161B22?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-161B22?style=flat-square)
 
-<sub>Cursor AI · AI API Integration · LLM Applications · Generative AI · Prompt Engineering · RAG Fundamentals · AI-powered Web Applications · Chatbot Development (Botpress) · AI-assisted Development</sub>
+<sub>AI API Integration · LLM Applications · Generative AI · Prompt Engineering · RAG Fundamentals · Agentic Workflows · AI-powered Web Applications · Chatbot Development (Botpress) · AI-assisted Development</sub>
 
 </td></tr>
 <tr><td width="100%">
 
 **Cloud & DevOps**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32" title="AWS Fundamentals"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="32" title="Vercel"/>
-<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="32" title="Netlify"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" title="Docker Fundamentals"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="32" title="GitHub Actions Fundamentals"/>
+![AWS](https://img.shields.io/badge/AWS%20Fundamentals-161B22?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-161B22?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Docker](https://img.shields.io/badge/Docker%20Fundamentals-161B22?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20Fundamentals-161B22?style=flat-square&logo=githubactions&logoColor=2088FF)
 
 <sub>Cloud Computing · CI/CD Fundamentals · Serverless Functions · Environment Configuration · Production Deployment Fundamentals</sub>
 
@@ -114,7 +120,7 @@ I'm a Software Engineer with a background in full-stack development, working pri
 
 **UI/UX**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" title="Figma"/>
+![Figma](https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=F24E1E)
 
 <sub>UI Design Fundamentals · UX Principles · User-Centered Design · Responsive Design · Accessibility · Wireframing · Prototyping · Visual Hierarchy · Usability Fundamentals · Design Systems Fundamentals · Component-Based Design</sub>
 
@@ -123,11 +129,11 @@ I'm a Software Engineer with a background in full-stack development, working pri
 
 **Developer Tools**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" title="VS Code"/>
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="32" title="Postman"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="32" title="npm"/>
+![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=FF6C37)
+![npm](https://img.shields.io/badge/npm-161B22?style=flat-square&logo=npm&logoColor=CB3837)
 
 <sub>Git Workflows · Branching · Pull Requests · Code Reviews · API Documentation</sub>
 
